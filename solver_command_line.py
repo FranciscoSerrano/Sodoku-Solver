@@ -19,7 +19,7 @@ def print_board(board):
         # prints a line very third column
         for j in range(len(board[0])):
             if j % 3 == 0 and j != 0:
-                print(" | ", end = "")
+                print(" | ", end = " ")
             # once it reaches the end add blanks
             if j == 8:
                 print(board[i][j])
