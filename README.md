@@ -2,6 +2,7 @@
 This is a sudoku solver using the backtracking algorithm. It includes a graphical GUI as well as a command line version.
 
 *requires pygame*
+
 Run GUI.py to play sudoku.
 
 # Instructions
